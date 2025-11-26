@@ -5,5 +5,9 @@ He añadido un titulo y un subtitulo en md.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Pan
+- [X] Filetes de pollo
+- [ ] Lomo de cerdo
+
 
 
